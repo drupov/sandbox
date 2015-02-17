@@ -1,3 +1,3 @@
-$(document).ready(function(){  
-  // Enter your js code here
-}); 
+(function ($) {
+  // Add your js code here
+})(jQuery);
